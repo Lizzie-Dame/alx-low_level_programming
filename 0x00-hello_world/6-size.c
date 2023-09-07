@@ -1,4 +1,4 @@
-6	#include <stdio.h>
+#include <stdio.h>
 /**
  * main - this sdesribes the main function of the code
  * Return: 0
